@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calif432
 - 👀 I’m interested in web developent and mobile development
-- 🌱 I’m currently learning Html,css and Javascript
+- 🌱 I’m currently learning Html,css,Java and Javascript
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me email :caleblangat20042gmail.com
 - 😄 Pronouns: He/him
