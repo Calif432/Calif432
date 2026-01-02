@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Calif432
-- 👀 I’m interested in web developent, AI and Devops
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web projects
+- 👋 Hi, I’m @Caleb Langat
+- 👀 I’m interested in Systems programming
+- 🌱 I’m currently learning C# Programming
+- 💞️ I’m looking to collaborate on to building fintech systems
 - 📫 How to reach me email :caleblangat20042gmail.com
 - ⚡ Fun fact: I love playing chess
 
