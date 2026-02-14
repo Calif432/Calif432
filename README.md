@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Caleb Langat
-- 👀 I’m interested in Systems programming
-- 🌱 I’m currently learning C# Programming
-- 💞️ I’m looking to collaborate on to building fintech systems
-- 📫 How to reach me email :caleblangat20042gmail.com
-- ⚡ Fun fact: I love playing chess
+- 👋 Hi, I’m @Caleb Langat.
+- 👀 I’m interested in Systems programming.
+- 🌱 I’m currently learning C# Programming.
+- 💞️ I’m looking to collaborate on building fintech systems.
+- 📫 How to reach me email :caleblangat2004@gmail.com.
+- ⚡ Fun fact: I love playing chess.
 
 <!---
 Calif432/Calif432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
