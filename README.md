@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caleb Langat.
+- 👋 Hi, I’m Caleb Langat.
 - 👀 I’m interested in Systems programming.
 - 🌱 I’m currently learning C# Programming.
 - 💞️ I’m looking to collaborate on building fintech systems.
